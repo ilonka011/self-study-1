@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ilonka011.github.io/self-study-1/static/css/main.ea30434a.css",
-    "main.js": "/ilonka011.github.io/self-study-1/static/js/main.7b62ab33.js",
-    "static/js/787.515adc5e.chunk.js": "/ilonka011.github.io/self-study-1/static/js/787.515adc5e.chunk.js",
-    "static/media/psychology.jpeg": "/ilonka011.github.io/self-study-1/static/media/psychology.bffd9c04a20456a6df73.jpeg",
-    "static/media/neurology.jpeg": "/ilonka011.github.io/self-study-1/static/media/neurology.6d17abfd653656ffd64b.jpeg",
-    "index.html": "/ilonka011.github.io/self-study-1/index.html",
-    "main.ea30434a.css.map": "/ilonka011.github.io/self-study-1/static/css/main.ea30434a.css.map",
-    "main.7b62ab33.js.map": "/ilonka011.github.io/self-study-1/static/js/main.7b62ab33.js.map",
-    "787.515adc5e.chunk.js.map": "/ilonka011.github.io/self-study-1/static/js/787.515adc5e.chunk.js.map"
+    "main.css": "/self-study-1/static/css/main.b790b946.css",
+    "main.js": "/self-study-1/static/js/main.8f2ca4e7.js",
+    "static/js/787.515adc5e.chunk.js": "/self-study-1/static/js/787.515adc5e.chunk.js",
+    "static/media/psychology.jpeg": "/self-study-1/static/media/psychology.bffd9c04a20456a6df73.jpeg",
+    "static/media/neurology.jpeg": "/self-study-1/static/media/neurology.6d17abfd653656ffd64b.jpeg",
+    "index.html": "/self-study-1/index.html",
+    "main.b790b946.css.map": "/self-study-1/static/css/main.b790b946.css.map",
+    "main.8f2ca4e7.js.map": "/self-study-1/static/js/main.8f2ca4e7.js.map",
+    "787.515adc5e.chunk.js.map": "/self-study-1/static/js/787.515adc5e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea30434a.css",
-    "static/js/main.7b62ab33.js"
+    "static/css/main.b790b946.css",
+    "static/js/main.8f2ca4e7.js"
   ]
 }
